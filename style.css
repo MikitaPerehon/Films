@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    background-color: rgb(230, 229, 229);
+    border-radius: 8px;
+    max-width: 500px;
+}
